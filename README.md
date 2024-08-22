@@ -43,8 +43,7 @@ cd CS50AI
 
 Run the projects:
 python project1.py
-python project2.py
-....
+
 
 *****************
 
@@ -59,7 +58,7 @@ Acknowledgments:
 Thanks to the CS50 team for providing such an enriching course.
 Special thanks to my peers and instructors for their support and guidance.
 
-===============================================================================================
+*****************
 
 License:
 This repository is licensed under the MIT License. See the LICENSE file for more details.

@@ -9,12 +9,12 @@ Future Plans
 Acknowledgments
 License
 
-===============================================================================================
+*****************
 
 Course Overview :
 The CS50 AI course offers an introduction to artificial intelligence, covering essential topics such as search algorithms, game theory, and machine learning. The course is project-based, allowing hands-on practice with real-world applications of AI techniques.
 
-===============================================================================================
+*****************
 
 Projects:
 Project 1: Degrees
@@ -30,7 +30,7 @@ Project 10: Lecture
 Project 11: Project
 Project 12: Tournament
 
-===============================================================================================
+*****************
 
 Installation and Usage:
 To run these projects locally, follow these steps:
@@ -46,14 +46,14 @@ python project1.py
 python project2.py
 ....
 
-===============================================================================================
+*****************
 
 Future Plans:
 Add more projects from the CS50 AI course.
 Improve existing projects with new features and optimizations.
 Explore additional AI techniques and applications.
 
-===============================================================================================
+*****************
 
 Acknowledgments:
 Thanks to the CS50 team for providing such an enriching course.

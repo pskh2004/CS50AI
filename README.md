@@ -17,18 +17,18 @@ The CS50 AI course offers an introduction to artificial intelligence, covering e
 *****************
 
 Projects:
-Project 1: Degrees
-Project 2: Knights
-Project 3: Minesweeper
-Project 4: Crossword
-Project 5: Traffic
-Project 6: Parser
-Project 7: Questions
-Project 8: Shopping
-Project 9: Nim
-Project 10: Lecture
-Project 11: Project
-Project 12: Tournament
+Project 0A: Degrees
+Project 0B: Tic-Tac-Toe
+Project 1A: Knights
+Project 1B: Minesweeper
+Project 2A: Pagerank
+Project 2B: Heredity
+Project 3 : Crossword
+Project 4A: Shopping
+Project 4B: Nim
+Project 5 : Traffic
+Project 6A: Parser
+Project 6B: Attention
 
 *****************
 
